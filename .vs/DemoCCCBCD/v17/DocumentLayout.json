@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Docker_Practise\\DemoCCCBCD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|d:\\docker_practise\\democccbcd\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|d:\\docker_practise\\democccbcd\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|d:\\docker_practise\\democccbcd\\appspec.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|solutionrelative:appspec.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|d:\\docker_practise\\democccbcd\\buildspec.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|solutionrelative:buildspec.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|d:\\docker_practise\\democccbcd\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|d:\\docker_practise\\democccbcd\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{751B8531-EA49-4430-A2E5-3FA53EC081F3}|DemoCCCBCD.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "D:\\Docker_Practise\\DemoCCCBCD\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\Docker_Practise\\DemoCCCBCD\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -64,26 +64,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appspec.yml",
               "DocumentMoniker": "D:\\Docker_Practise\\DemoCCCBCD\\appspec.yml",
               "RelativeDocumentMoniker": "appspec.yml",
               "ToolTip": "D:\\Docker_Practise\\DemoCCCBCD\\appspec.yml",
               "RelativeToolTip": "appspec.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-08-01T05:52:08.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "buildspec.yml",
               "DocumentMoniker": "D:\\Docker_Practise\\DemoCCCBCD\\buildspec.yml",
               "RelativeDocumentMoniker": "buildspec.yml",
               "ToolTip": "D:\\Docker_Practise\\DemoCCCBCD\\buildspec.yml",
               "RelativeToolTip": "buildspec.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-08-01T05:19:19.511Z",
               "EditorCaption": ""

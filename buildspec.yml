@@ -19,5 +19,7 @@ phases:
       - echo Build and publish completed.
 artifacts:
   files:
-    - '**/*'
-  base-directory: ./publish
+    - 'publish/**/*'
+    - 'appspec.yml'
+    - 'scripts/*'
+  base-directory: .

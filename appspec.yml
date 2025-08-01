@@ -1,7 +1,7 @@
 ﻿version: 0.0
 os: linux
 files:
-  - source: /
+  - source: publish/
     destination: /home/ec2-user/dotnetapp
 hooks:
   BeforeInstall:
@@ -12,11 +12,11 @@ hooks:
     - location: scripts/after_install.sh
       timeout: 180
       runas: ec2-user
-  ApplicationStart:
-    - location: scripts/start_server.sh
-      timeout: 180
-      runas: ec2-user
   ApplicationStop:
     - location: scripts/stop_server.sh
+      timeout: 180
+      runas: ec2-user
+  ApplicationStart:
+    - location: scripts/start_server.sh
       timeout: 180
       runas: ec2-user
