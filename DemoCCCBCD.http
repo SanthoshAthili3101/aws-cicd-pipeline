@@ -1,0 +1,6 @@
+@DemoCCCBCD_HostAddress = http://localhost:5084
+
+GET {{DemoCCCBCD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
